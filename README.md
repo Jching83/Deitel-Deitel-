@@ -1,2 +1,2 @@
 # Deitel-Deitel-
-exercises taken from Deitel &amp; Deitel how to program C++
+exercise 2.16 taken from Deitel &amp; Deitel how to program C++
